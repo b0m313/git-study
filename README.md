@@ -1,2 +1,1 @@
-# git-study
-2022 OPG study
+# Git & Github Study
