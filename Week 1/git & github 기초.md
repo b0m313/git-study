@@ -1,4 +1,4 @@
-# git & github
+# git & github Tutorial
 
 ## Git 
 소스 코드를 효율적으로 관리하기 위해 만들어긴 분산형 버전 관리 시스템(DVCS, Distributed Version Control System)
