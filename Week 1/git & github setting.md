@@ -46,7 +46,6 @@
 * 🔎 > '자격증명관리자' > Windows 자격 증명 > 일반 자격 증명 추가 <br> > 
 <img src="https://user-images.githubusercontent.com/76231561/150728783-01fb497b-ef89-400b-a091-9984c5907f4b.jpg" width="200" height = "100">
 
-Docs: 깃&깃허브 연동 과정 내용 추가 
 ### 7. git-github 연동 (bash상 연결)
 * 폴더 생성 > 폴더 클릭 후 우 클릭 'Git Bash Here'
     > ❗ tip ❗ 폴더는 바탕화면에 생성하는 걸 추천. `(ex) git-repos, git-repo`
