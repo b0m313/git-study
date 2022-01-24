@@ -44,7 +44,7 @@
 
 ### 6. git 자격 증명 관리자 설정
 * 🔎 > '자격증명관리자' > Windows 자격 증명 > 일반 자격 증명 추가 <br> > 
-<img src="https://user-images.githubusercontent.com/76231561/150728783-01fb497b-ef89-400b-a091-9984c5907f4b.jpg" width="450" height = "250">
+<img src="https://user-images.githubusercontent.com/76231561/150728783-01fb497b-ef89-400b-a091-9984c5907f4b.jpg" width="500" height = "250">
 
 ### 7. git-github 연동 (bash상 연결)
 * 폴더 생성 > 폴더 클릭 후 우 클릭 'Git Bash Here'
